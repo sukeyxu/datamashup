@@ -1,0 +1,3467 @@
+{
+ "kind": "youtube#commentThreadListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hOZIig4KukFSh34ohL6fytWYDeo\"",
+ "nextPageToken": "QURTSl9pM2dGcVB0SFlET19YektoWHJtQUFKbjh3bmwxeGN2QklyOEhjaW1rc09pd2Z5ZEdDRHh6ZW1FVkZRZWVBVFRCbnlCMTBqcDNDbDBwbnljdkt3VHFyUjBzeGRBOGowVnFQdU9CRGZ0UGJyNXFPOWUtVl9mR1p6WkFuRWVEczg=",
+ "pageInfo": {
+  "totalResults": 96,
+  "resultsPerPage": 100
+ },
+ "items": [
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EIG0Ou7P6TAZ6ys4IBO9fDwe62Q\"",
+   "id": "Ugy7MT6R20YxxmvSJvx4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "DJzIU9Gecns",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JYhsU45bPchJIVC_wdxhh-BtyDs\"",
+     "id": "Ugy7MT6R20YxxmvSJvx4AaABAg",
+     "snippet": {
+      "authorDisplayName": "dmoney668",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-aryG53LyyOQ/AAAAAAAAAAI/AAAAAAAAAAA/DCjjflsRJcU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0FDRBCuvCATKLiLsocrLTg",
+      "authorChannelId": {
+       "value": "UC0FDRBCuvCATKLiLsocrLTg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "DJzIU9Gecns",
+      "textDisplay": "Pls STOP THE AWFUL OWL WHOOOO!",
+      "textOriginal": "Pls STOP THE AWFUL OWL WHOOOO!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-11-08T02:59:02.000Z",
+      "updatedAt": "2018-11-08T02:59:02.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/seiXNMgNPR6Oi1WvlnXXgtKG3Kc\"",
+   "id": "Ugy0UeP5WGtNRx7xceV4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "DJzIU9Gecns",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/d0_klRbsLPZZRQVGdhemEJc_qHM\"",
+     "id": "Ugy0UeP5WGtNRx7xceV4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Zeitaluq",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-8S6M3C9cvYE/AAAAAAAAAAI/AAAAAAAAAAA/KdGe2NeCxck/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCY4fvdcMhIDHA37tOLn1BDQ",
+      "authorChannelId": {
+       "value": "UCY4fvdcMhIDHA37tOLn1BDQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "DJzIU9Gecns",
+      "textDisplay": "One of best short commercials I seen. Clever and well put together",
+      "textOriginal": "One of best short commercials I seen. Clever and well put together",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-11-03T16:53:35.000Z",
+      "updatedAt": "2018-11-03T16:53:35.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DfUDGpY0vnyusgmLGyYjALcOkkc\"",
+   "id": "Ugzx-CiXAJ-fM1aHsNB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "DJzIU9Gecns",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/v1r5O4Uxv1-oCxFOaPv0yDSvaGQ\"",
+     "id": "Ugzx-CiXAJ-fM1aHsNB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Unplanned Traveller ????",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-oWpcVRUGt4E/AAAAAAAAAAI/AAAAAAAAAAA/X7pGjhiq2_0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCcKPLwHk0FrOFH9b7bdgcqw",
+      "authorChannelId": {
+       "value": "UCcKPLwHk0FrOFH9b7bdgcqw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "DJzIU9Gecns",
+      "textDisplay": "wow... great job??",
+      "textOriginal": "wow... great job??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-11-02T00:20:39.000Z",
+      "updatedAt": "2018-11-02T00:20:39.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/g_TdIxVj2RLE3S1bcUk_h_ZmP5c\"",
+   "id": "Ugw_SkQdntCeg7iBKHh4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K7RuXbuYGtFqMGDe34ttPBKacB8\"",
+     "id": "Ugw_SkQdntCeg7iBKHh4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Guy Ferguson",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-vdrduG91-8s/AAAAAAAAAAI/AAAAAAAAAAA/onKngbVHa68/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCQ9OSAKpal5zVxGX4H7omaQ",
+      "authorChannelId": {
+       "value": "UCQ9OSAKpal5zVxGX4H7omaQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "You forgot a segment in your video.  The part where TripAdvisor and Viator insiders help fake companies profit from people that trust TripAdvisor like this one https://www.tripadvisor.com/Attraction_Review-g45963-d8517251-Reviews-Grand_Canyon_Destinations-Las_Vegas_Nevada.html a \"company\" who owns zero buses and in 2 years miraculously  has as many reviews as real companies with fleets of buses servicing literally 100 times as many people with reviews accumulated over 10 years https://www.tripadvisor.com/Attraction_Review-g45963-d622824-Reviews-Gray_Line_Las_Vegas-Las_Vegas_Nevada.html   How does that happen TripAdvisor?  I do know the answer but I would love to hear yours.",
+      "textOriginal": "You forgot a segment in your video.  The part where TripAdvisor and Viator insiders help fake companies profit from people that trust TripAdvisor like this one https://www.tripadvisor.com/Attraction_Review-g45963-d8517251-Reviews-Grand_Canyon_Destinations-Las_Vegas_Nevada.html a \"company\" who owns zero buses and in 2 years miraculously  has as many reviews as real companies with fleets of buses servicing literally 100 times as many people with reviews accumulated over 10 years https://www.tripadvisor.com/Attraction_Review-g45963-d622824-Reviews-Gray_Line_Las_Vegas-Las_Vegas_Nevada.html   How does that happen TripAdvisor?  I do know the answer but I would love to hear yours.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-30T21:04:35.000Z",
+      "updatedAt": "2018-10-30T21:11:20.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/G212HPOhH7M7QGk2fVpvFhy7cxc\"",
+   "id": "UgzZrhQQqLkv_ke8Crt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "sXJsTuYA9us",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mU-R_GJD8vYrOajvpFk5jS0aGh4\"",
+     "id": "UgzZrhQQqLkv_ke8Crt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "jayram dahal",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-7QVTDp34eWw/AAAAAAAAAAI/AAAAAAAAAAA/NXsyQApobRI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCvQ2ejQ0oV_pW3mgEPO_PMA",
+      "authorChannelId": {
+       "value": "UCvQ2ejQ0oV_pW3mgEPO_PMA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "sXJsTuYA9us",
+      "textDisplay": "nice.. how can put my address there ?",
+      "textOriginal": "nice.. how can put my address there ?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-27T13:32:03.000Z",
+      "updatedAt": "2018-10-27T13:32:03.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/S0wiT2ERd1vYYBbDjlVQS7C-lJU\"",
+   "id": "Ugwf1aMw0nRwnQdoZ7N4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "xkF2RP11CSA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/N4JlTUMQWS4NTwHEbtxDr1qjSOE\"",
+     "id": "Ugwf1aMw0nRwnQdoZ7N4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Unplanned Traveller ????",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-oWpcVRUGt4E/AAAAAAAAAAI/AAAAAAAAAAA/X7pGjhiq2_0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCcKPLwHk0FrOFH9b7bdgcqw",
+      "authorChannelId": {
+       "value": "UCcKPLwHk0FrOFH9b7bdgcqw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "xkF2RP11CSA",
+      "textDisplay": "Well done??Well planning CSR...",
+      "textOriginal": "Well done??Well planning CSR...",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-23T02:52:43.000Z",
+      "updatedAt": "2018-10-23T02:52:43.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/flYP-Oh20C6w0EPw86kVKXqtulI\"",
+   "id": "UgwjhK8kn9Cbkjuh1gB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "v7RGOA6rP1E",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/S545OtJ4GxyOAOTJkaW9a1gqHLc\"",
+     "id": "UgwjhK8kn9Cbkjuh1gB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "BelowAbsoluteZero",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-L1I8WnsgkC8/AAAAAAAAAAI/AAAAAAAAAAA/kL51ORYTRgo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCxbPjEURIphMW3PfC1tO2qQ",
+      "authorChannelId": {
+       "value": "UCxbPjEURIphMW3PfC1tO2qQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "v7RGOA6rP1E",
+      "textDisplay": "Great commercial. Love that �book� dog!",
+      "textOriginal": "Great commercial. Love that �book� dog!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-16T01:01:06.000Z",
+      "updatedAt": "2018-10-16T01:01:06.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dYce05vsAa8hDqpv58ZlAQGoKsY\"",
+   "id": "Ugxmq7bHCj9AFWXetqh4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "LeofIMNFVDE",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wrRCG1ccwZitc8jmePD1qHUW0Mw\"",
+     "id": "Ugxmq7bHCj9AFWXetqh4AaABAg",
+     "snippet": {
+      "authorDisplayName": "BelowAbsoluteZero",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-L1I8WnsgkC8/AAAAAAAAAAI/AAAAAAAAAAA/kL51ORYTRgo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCxbPjEURIphMW3PfC1tO2qQ",
+      "authorChannelId": {
+       "value": "UCxbPjEURIphMW3PfC1tO2qQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "LeofIMNFVDE",
+      "textDisplay": "Awesome commercial. Hope they bring it back. Book in 2020!",
+      "textOriginal": "Awesome commercial. Hope they bring it back. Book in 2020!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-16T00:56:09.000Z",
+      "updatedAt": "2018-10-16T00:56:09.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/esJoCr43XnqrzpjiIoIYDizMzIM\"",
+   "id": "Ugz9DLm0sp48az-hUxB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "iblHw4gWpPM",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/D03njv7rZgNMcsmOLVDaVwvwKuA\"",
+     "id": "Ugz9DLm0sp48az-hUxB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Central Scrutinizer",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9QpIrSGwz4s/AAAAAAAAAAI/AAAAAAAAAAA/NSD-JTdR1Eg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCn-ttcSe3CawO1QWLywnzBQ",
+      "authorChannelId": {
+       "value": "UCn-ttcSe3CawO1QWLywnzBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "iblHw4gWpPM",
+      "textDisplay": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "textOriginal": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-13T21:08:37.000Z",
+      "updatedAt": "2018-10-13T21:08:37.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KKPkJrNQ3pe8yZVTWQYaTwM2vLY\"",
+   "id": "UgwqD2uBwomBkqiAsn54AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "wuCaknKjUGY",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/I25UyTNDIbiqXmwUVUmEObfwhkM\"",
+     "id": "UgwqD2uBwomBkqiAsn54AaABAg",
+     "snippet": {
+      "authorDisplayName": "Central Scrutinizer",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9QpIrSGwz4s/AAAAAAAAAAI/AAAAAAAAAAA/NSD-JTdR1Eg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCn-ttcSe3CawO1QWLywnzBQ",
+      "authorChannelId": {
+       "value": "UCn-ttcSe3CawO1QWLywnzBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "wuCaknKjUGY",
+      "textDisplay": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "textOriginal": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-13T21:07:48.000Z",
+      "updatedAt": "2018-10-13T21:07:48.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dKesiYn4iVjc_RFzkEyIurRyZcQ\"",
+   "id": "UgxK7TG4SCB5j3Twn9F4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "IQKhz9X-6nQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2BN7vEzp9VbjJjBydppTBgcTDss\"",
+     "id": "UgxK7TG4SCB5j3Twn9F4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Central Scrutinizer",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9QpIrSGwz4s/AAAAAAAAAAI/AAAAAAAAAAA/NSD-JTdR1Eg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCn-ttcSe3CawO1QWLywnzBQ",
+      "authorChannelId": {
+       "value": "UCn-ttcSe3CawO1QWLywnzBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "IQKhz9X-6nQ",
+      "textDisplay": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "textOriginal": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-13T21:07:33.000Z",
+      "updatedAt": "2018-10-13T21:07:33.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CTwEH4Vh288iXxCMjLtOIlK3Xdc\"",
+   "id": "UgyQe9EUzr9XW925r3d4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "9ggyQAZxNsA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cSvu3NhJ-Dwku6oOb9ekJ4L19Hc\"",
+     "id": "UgyQe9EUzr9XW925r3d4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Central Scrutinizer",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9QpIrSGwz4s/AAAAAAAAAAI/AAAAAAAAAAA/NSD-JTdR1Eg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCn-ttcSe3CawO1QWLywnzBQ",
+      "authorChannelId": {
+       "value": "UCn-ttcSe3CawO1QWLywnzBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "9ggyQAZxNsA",
+      "textDisplay": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "textOriginal": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-13T21:07:11.000Z",
+      "updatedAt": "2018-10-13T21:07:11.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BzRa4qXUo0S8gGb2Wadinxpp1bE\"",
+   "id": "UgzWZ5CpfQqW46lXK7l4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "xkF2RP11CSA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BXnLhS3yxwJiSAdx_CMQN87BYAM\"",
+     "id": "UgzWZ5CpfQqW46lXK7l4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Central Scrutinizer",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9QpIrSGwz4s/AAAAAAAAAAI/AAAAAAAAAAA/NSD-JTdR1Eg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCn-ttcSe3CawO1QWLywnzBQ",
+      "authorChannelId": {
+       "value": "UCn-ttcSe3CawO1QWLywnzBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "xkF2RP11CSA",
+      "textDisplay": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "textOriginal": "............You are censoring reviews of Hotels that also house \"refugees\" .That's dirty....you know this. You have just undermined your entire business. You are pieces of sh*t. You are GD lucky you didn't MISINFORM me.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-13T21:06:43.000Z",
+      "updatedAt": "2018-10-13T21:06:43.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/571WCU5KulkhgI7OYgRHpwVXm0g\"",
+   "id": "UgwAO5w30cBIY2UofBp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "xkF2RP11CSA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rfiYnFHG4Nb4xMz7ZrqmrYyqsc4\"",
+     "id": "UgwAO5w30cBIY2UofBp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Sam @ L E",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-VP4QJJhPjTI/AAAAAAAAAAI/AAAAAAAAAAA/ogzD9kEy3MI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UChVNz4GUX7EoWTgyXsm-JVQ",
+      "authorChannelId": {
+       "value": "UChVNz4GUX7EoWTgyXsm-JVQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "xkF2RP11CSA",
+      "textDisplay": "Lovely action !",
+      "textOriginal": "Lovely action !",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-11T21:16:05.000Z",
+      "updatedAt": "2018-10-11T21:16:05.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a4Amtpu6lG7Lho20u69dxPYVeUI\"",
+   "id": "Ugx0BCqlfErWC6U5VTV4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "EUJoeD_myj8",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3JFCRDpy09nOBa0gXMdQTPoumuw\"",
+     "id": "Ugx0BCqlfErWC6U5VTV4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Andrew Vojtush",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-wtwZ9K7F1xA/AAAAAAAAAAI/AAAAAAAAAAA/5W1ne1FBMCE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC-HxoMbKtBNo3TlZwL5McVg",
+      "authorChannelId": {
+       "value": "UC-HxoMbKtBNo3TlZwL5McVg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "EUJoeD_myj8",
+      "textDisplay": "My favorite thing to go to is Las Vegas",
+      "textOriginal": "My favorite thing to go to is Las Vegas",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-10-07T16:47:16.000Z",
+      "updatedAt": "2018-10-07T16:47:16.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ubIxJFcU1Y20iCxockuZG22W8VA\"",
+   "id": "UgwlOLe4PmD5Jl4moah4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "9ggyQAZxNsA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oRU9RZ-nn9si8-a5GB0ZPWinZJU\"",
+     "id": "UgwlOLe4PmD5Jl4moah4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Social Silvery",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-CpZglrnxOE0/AAAAAAAAAAI/AAAAAAAAAAA/1ZLhpzSMAvE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCjDgBDcqwPujSFgmxSmGuTg",
+      "authorChannelId": {
+       "value": "UCjDgBDcqwPujSFgmxSmGuTg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "9ggyQAZxNsA",
+      "textDisplay": "Woah, such a beautiful experience ??",
+      "textOriginal": "Woah, such a beautiful experience ??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-29T15:06:50.000Z",
+      "updatedAt": "2018-09-29T15:06:50.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kVCBLlzLGU3Uq6206Ug9bbQCWrM\"",
+   "id": "Ugx_l-70zS0VkExr8vp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0eh15tPqJvseP2OG8n3X4e6bl1o\"",
+     "id": "Ugx_l-70zS0VkExr8vp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "G�rge�us Queen",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-TiFxWpzC6Ro/AAAAAAAAAAI/AAAAAAAAAAA/Hk8ozz-YQY4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC5byAZmxkL9JFpIs_cYtR5Q",
+      "authorChannelId": {
+       "value": "UC5byAZmxkL9JFpIs_cYtR5Q"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "0:45",
+      "textOriginal": "0:45",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-20T00:07:55.000Z",
+      "updatedAt": "2018-09-20T00:07:55.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_ckNjCrRfPbeBACvbSOurChXQLI\"",
+   "id": "Ugxj85sZc2B3A5Zahhd4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Y0u6AAF6RtY",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uasLSNeODqjeFRfw0A2HLHVjdEM\"",
+     "id": "Ugxj85sZc2B3A5Zahhd4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Summit Trekkers",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-CKL2Fzboe-w/AAAAAAAAAAI/AAAAAAAAAAA/cZlKi__uIv0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCacfGzevGAcUb1TPNlZQDEQ",
+      "authorChannelId": {
+       "value": "UCacfGzevGAcUb1TPNlZQDEQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Y0u6AAF6RtY",
+      "textDisplay": "summittrekkers.com",
+      "textOriginal": "summittrekkers.com",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-17T13:04:58.000Z",
+      "updatedAt": "2018-09-17T13:04:58.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XRJRakbBQvG2fBx9FEh8zfm4TYc\"",
+   "id": "UgwaIMJ-bURnjRDvEFh4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "8RcuhYIxzjQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OTWcpbs_IFWJQBpIyR2LcouEN_c\"",
+     "id": "UgwaIMJ-bURnjRDvEFh4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Patrick Jonas",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-GxiOZ85LhrA/AAAAAAAAAAI/AAAAAAAAAAA/X73ingKCHQE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCzboD_FyBGTtc8FRdaTvnog",
+      "authorChannelId": {
+       "value": "UCzboD_FyBGTtc8FRdaTvnog"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "8RcuhYIxzjQ",
+      "textDisplay": "Plan & book on the go with our app\nCapitalize on the wisdom of the crowds\nWith 500 million traveler reviews & opinions at your fingertips, you can plan with confidence\nSave ideas. Book them anytime. https://www.tripadvisor.com/News\nKeep track of travel ideas and book your favorites, whenever you want\nDiscover what�s around you\nGet customized, relevant suggestions and tips on things to do, places to eat and great hotels nearby, https://www.tripadvisor.com/News",
+      "textOriginal": "Plan & book on the go with our app\nCapitalize on the wisdom of the crowds\nWith 500 million traveler reviews & opinions at your fingertips, you can plan with confidence\nSave ideas. Book them anytime. https://www.tripadvisor.com/News\nKeep track of travel ideas and book your favorites, whenever you want\nDiscover what�s around you\nGet customized, relevant suggestions and tips on things to do, places to eat and great hotels nearby, https://www.tripadvisor.com/News",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-08-08T22:14:33.000Z",
+      "updatedAt": "2018-08-08T22:14:33.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PowzWZvwQA9eRfIciMaFmJxfSyg\"",
+   "id": "UgyZQ5WW67g6zjm0cA14AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "DarncVaMV1o",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dlUU_txfwEt8720MGCWmCOzij1E\"",
+     "id": "UgyZQ5WW67g6zjm0cA14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Kimarnic",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-e1E67BW9ePI/AAAAAAAAAAI/AAAAAAAAAAA/aNyeI-oYp6Y/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC8me_9IHTLlowD_VbbVjcAg",
+      "authorChannelId": {
+       "value": "UC8me_9IHTLlowD_VbbVjcAg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "DarncVaMV1o",
+      "textDisplay": "RRRRESERVA",
+      "textOriginal": "RRRRESERVA",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-30T15:48:13.000Z",
+      "updatedAt": "2018-07-30T15:48:13.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KvHGHtys3r10CNBLPOtiJwVaQjI\"",
+   "id": "Ugw5IXMBw0GYguAg5s14AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "wuCaknKjUGY",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DbpMAi2wtCgwjcWwUmmt5HNfkd0\"",
+     "id": "Ugw5IXMBw0GYguAg5s14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Anuj vijay",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-w_yG-ohJ7h4/AAAAAAAAAAI/AAAAAAAAAAA/V7VHxHErJ3g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCUdLY2olKQf0EjgVuyMLN-g",
+      "authorChannelId": {
+       "value": "UCUdLY2olKQf0EjgVuyMLN-g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "wuCaknKjUGY",
+      "textDisplay": "I would like to work with trip advisor to make quality video content for your youtube channel for free of cost.",
+      "textOriginal": "I would like to work with trip advisor to make quality video content for your youtube channel for free of cost.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-28T08:16:40.000Z",
+      "updatedAt": "2018-07-28T08:16:40.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KEmFFAXlHo_jOugXLUQd7eU6y2g\"",
+   "id": "UgyDgciZrkDhGUo7fX14AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "IQKhz9X-6nQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/IYdmJdouVpLRLtBP_3LQrXP1vqo\"",
+     "id": "UgyDgciZrkDhGUo7fX14AaABAg",
+     "snippet": {
+      "authorDisplayName": "dmoney668",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-aryG53LyyOQ/AAAAAAAAAAI/AAAAAAAAAAA/DCjjflsRJcU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0FDRBCuvCATKLiLsocrLTg",
+      "authorChannelId": {
+       "value": "UC0FDRBCuvCATKLiLsocrLTg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "IQKhz9X-6nQ",
+      "textDisplay": "Worst ads ever- shut that OWL UP! WHOO..like nails on a chalkboard",
+      "textOriginal": "Worst ads ever- shut that OWL UP! WHOO..like nails on a chalkboard",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-26T00:42:21.000Z",
+      "updatedAt": "2018-07-26T00:42:21.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VB8St-zi8TjIjyXevbMCuGBFd1c\"",
+   "id": "Ugxw_ac5o0lA3-4Z_U94AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "VSFbyuxPxPA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sf2veALHgFnQPM9N1yPjEgE_PyU\"",
+     "id": "Ugxw_ac5o0lA3-4Z_U94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Travis Butler",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-VWRY72X5vB0/AAAAAAAAAAI/AAAAAAAAAAA/T9n141iRhJ0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCXCQHMVcmRb9gEzyXn2ttEg",
+      "authorChannelId": {
+       "value": "UCXCQHMVcmRb9gEzyXn2ttEg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "VSFbyuxPxPA",
+      "textDisplay": "Wow",
+      "textOriginal": "Wow",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-25T04:14:20.000Z",
+      "updatedAt": "2018-07-25T04:14:20.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/x4vagWzxnRJNMxD6HM9yGV3XiLU\"",
+   "id": "UgxAbZ8_quG1IHt10iJ4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gi1AQ4GtF56orxbFkPkX5sEF93A\"",
+     "id": "UgxAbZ8_quG1IHt10iJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Hugo Scozzafave",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-_t2YbpCAa3g/AAAAAAAAAAI/AAAAAAAAAAA/pt8Avsefo-0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCm-uyJWLlFM9HgU5EabYAlg",
+      "authorChannelId": {
+       "value": "UCm-uyJWLlFM9HgU5EabYAlg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "Book",
+      "textOriginal": "Book",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-20T14:19:08.000Z",
+      "updatedAt": "2018-07-20T14:19:08.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8_Wjcv390kU6_KSpATAVd3pz5-8\"",
+   "id": "UgwofLZb2TzJIrknOtB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "8RcuhYIxzjQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/V7IkLZQ54gG5O7XQ_o9F7f6wtFk\"",
+     "id": "UgwofLZb2TzJIrknOtB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "dmoney668",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-aryG53LyyOQ/AAAAAAAAAAI/AAAAAAAAAAA/DCjjflsRJcU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0FDRBCuvCATKLiLsocrLTg",
+      "authorChannelId": {
+       "value": "UC0FDRBCuvCATKLiLsocrLTg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "8RcuhYIxzjQ",
+      "textDisplay": "STOP WITH THAT AWFUL WHOOOO BS! KILLIN ME",
+      "textOriginal": "STOP WITH THAT AWFUL WHOOOO BS! KILLIN ME",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-07-13T23:05:31.000Z",
+      "updatedAt": "2018-07-13T23:05:31.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2gNQExMJgzOUI5KyZoSmCh813qo\"",
+   "id": "Ugz2Xx0yTII43oJrTnt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jizxc2xLfnm4kreh9LlZSSRqDgk\"",
+     "id": "Ugz2Xx0yTII43oJrTnt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "BLOCKFORLANDSTUDIOS and Pac-Mule Productions",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-wcXVyds1D44/AAAAAAAAAAI/AAAAAAAAAAA/UWTVTZBfzuI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCjoxv4x6AVQ6GOX8hCwjM3Q",
+      "authorChannelId": {
+       "value": "UCjoxv4x6AVQ6GOX8hCwjM3Q"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "What the Fuck!?",
+      "textOriginal": "What the Fuck!?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-10T21:04:27.000Z",
+      "updatedAt": "2018-07-10T21:04:27.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PVld42bb2vpIDRkBaMUex0yI7MY\"",
+   "id": "UgynnRrrCk0DcIJSRz94AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "fLcTBiD75-Q",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VjdFpGTY_XcgzfUgH2BMTXANTig\"",
+     "id": "UgynnRrrCk0DcIJSRz94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Maya Nova",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-07Qm8vFGBoc/AAAAAAAAAAI/AAAAAAAAAAA/gS5xjTT2BZ8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCb1DxJxV-IqpG0Kj70D_tMw",
+      "authorChannelId": {
+       "value": "UCb1DxJxV-IqpG0Kj70D_tMw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "fLcTBiD75-Q",
+      "textDisplay": "Shame!",
+      "textOriginal": "Shame!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-07-10T09:48:07.000Z",
+      "updatedAt": "2018-07-10T09:48:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gjx5Jf0jMnTh78qmXWKTPdgbyJs\"",
+   "id": "UgwZHHeAPvMGJ0soiZN4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pg-blhPbWnEGYfuXqG_C3_voKdk\"",
+     "id": "UgwZHHeAPvMGJ0soiZN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "virginian 2-10-10-2",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-AJs_ZxUERpc/AAAAAAAAAAI/AAAAAAAAAAA/Z3YEcauoU3E/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCrO-ia-23Vzh8R9UDotnjyA",
+      "authorChannelId": {
+       "value": "UCrO-ia-23Vzh8R9UDotnjyA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "I want a 24 hour loop of the dog saying book.",
+      "textOriginal": "I want a 24 hour loop of the dog saying book.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-07-02T21:33:05.000Z",
+      "updatedAt": "2018-07-02T21:33:05.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tVUgo5J5HVpaiBOAixT-OF4e20E\"",
+   "id": "Ugz4J_hoWfdWFpGV7qp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "y3TvyJsu96I",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QOuQlG5zZQnrGhL82KDbMa87OBo\"",
+     "id": "Ugz4J_hoWfdWFpGV7qp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Eileen Cabbollet",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/--mWb19sprAE/AAAAAAAAAAI/AAAAAAAAAAA/nL142BUOcXw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0hiDHamQx5E6RWEAUrcVVQ",
+      "authorChannelId": {
+       "value": "UC0hiDHamQx5E6RWEAUrcVVQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "y3TvyJsu96I",
+      "textDisplay": "My advice  is if want  the bes  vacation  go to the ibrostar varadero the best resort ever in my opinion food great staff fantastic rooms immaculat  entertainment out of this world beaches the best last but not least my best friend Roberto lantigua Diaz is the best security guard and has all the information you need to  have  the best  vacation  ever",
+      "textOriginal": "My advice  is if want  the bes  vacation  go to the ibrostar varadero the best resort ever in my opinion food great staff fantastic rooms immaculat  entertainment out of this world beaches the best last but not least my best friend Roberto lantigua Diaz is the best security guard and has all the information you need to  have  the best  vacation  ever",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-06-27T03:58:09.000Z",
+      "updatedAt": "2018-06-27T03:58:09.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UshutKtljaTZ7luwyae6mw05RMA\"",
+   "id": "UgwX_AyEh7eOZJUCuPF4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "8RcuhYIxzjQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/14eipRw6NL3zYSV1-Wo2RzGiRRM\"",
+     "id": "UgwX_AyEh7eOZJUCuPF4AaABAg",
+     "snippet": {
+      "authorDisplayName": "jayram dahal",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-7QVTDp34eWw/AAAAAAAAAAI/AAAAAAAAAAA/NXsyQApobRI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCvQ2ejQ0oV_pW3mgEPO_PMA",
+      "authorChannelId": {
+       "value": "UCvQ2ejQ0oV_pW3mgEPO_PMA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "8RcuhYIxzjQ",
+      "textDisplay": "how to put webside in trip advisor ??",
+      "textOriginal": "how to put webside in trip advisor ??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-06-22T06:16:55.000Z",
+      "updatedAt": "2018-06-22T06:16:55.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ojZq3a9dar8wxjpeOgI67cfbJZ8\"",
+   "id": "UgzCxgvAVbLaYNduYFJ4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "6P93MEOakeg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uu0kJs3I7d7w-Z09Mg5dHkG2Zps\"",
+     "id": "UgzCxgvAVbLaYNduYFJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Dakidak Cuarto",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Xz2uxL8wVp8/AAAAAAAAAAI/AAAAAAAAAAA/K-yfb8U639o/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCdp2513veqcGX6y5tV1427Q",
+      "authorChannelId": {
+       "value": "UCdp2513veqcGX6y5tV1427Q"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "6P93MEOakeg",
+      "textDisplay": "Wanderlust ????",
+      "textOriginal": "Wanderlust ????",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-06-14T13:46:07.000Z",
+      "updatedAt": "2018-06-14T13:46:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gzNTsCLrD42kjRr0yxTY-2hZYBg\"",
+   "id": "Ugxlm5U6LBI6PfsC-nV4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/txIYoygNz4TVIEzm-pzQ-OWmzn4\"",
+     "id": "Ugxlm5U6LBI6PfsC-nV4AaABAg",
+     "snippet": {
+      "authorDisplayName": "jayram dahal",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-7QVTDp34eWw/AAAAAAAAAAI/AAAAAAAAAAA/NXsyQApobRI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCvQ2ejQ0oV_pW3mgEPO_PMA",
+      "authorChannelId": {
+       "value": "UCvQ2ejQ0oV_pW3mgEPO_PMA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "how to connected with trip advisor??",
+      "textOriginal": "how to connected with trip advisor??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-06-06T10:10:56.000Z",
+      "updatedAt": "2018-06-06T10:10:56.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JxuGlGX5qG-EK1WAlgTmOYpcQ9c\"",
+   "id": "UgzcoeRn2aRw3dFX5JN4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Fn1odguij00",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/29tpXjLEU8YWKuevKAE0QdMKEk8\"",
+     "id": "UgzcoeRn2aRw3dFX5JN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Sunil Dissa",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-r0WKcKmWzos/AAAAAAAAAAI/AAAAAAAAAAA/AFBijCK09Xo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCMe6zvH0WqAPT6uSb88Q1kQ",
+      "authorChannelId": {
+       "value": "UCMe6zvH0WqAPT6uSb88Q1kQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Fn1odguij00",
+      "textDisplay": "rsmrn mispya on colbo",
+      "textOriginal": "rsmrn mispya on colbo",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-05-15T13:48:22.000Z",
+      "updatedAt": "2018-05-15T13:48:22.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZLJo4SqbyRRhaTYx3O6oBnRUoP8\"",
+   "id": "UgzJ0ASkVI97rCpEBoB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "4nWJ_WJPOMM",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/r1Z-JHENoGGF-ubhLWH0Ylz3u0Y\"",
+     "id": "UgzJ0ASkVI97rCpEBoB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "RuddyUddy l FilmMaking Tutorials",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-zFU7XIdWXVM/AAAAAAAAAAI/AAAAAAAAAAA/7uVu-i8gOuk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCgLIjiAZZ98px1f5pIGxI3Q",
+      "authorChannelId": {
+       "value": "UCgLIjiAZZ98px1f5pIGxI3Q"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "4nWJ_WJPOMM",
+      "textDisplay": "I hope tripadvisor is banned from youtube.",
+      "textOriginal": "I hope tripadvisor is banned from youtube.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-04-30T20:40:07.000Z",
+      "updatedAt": "2018-04-30T20:40:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gQGIkm86PufHLU_zpIezCXQAOBo\"",
+   "id": "Ugwp72grYwffSlcuOWt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ldoPlEXgATk",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2lmvU5dK3-qi5bpa5PSvcTEeZpQ\"",
+     "id": "Ugwp72grYwffSlcuOWt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "????",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-qfw96Sgdf6g/AAAAAAAAAAI/AAAAAAAAAAA/v73TA2nDKNA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCTo8NZSWuncYfubTzD9zmiw",
+      "authorChannelId": {
+       "value": "UCTo8NZSWuncYfubTzD9zmiw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ldoPlEXgATk",
+      "textDisplay": "0:07 frozen lol",
+      "textOriginal": "0:07 frozen lol",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-04-14T04:13:13.000Z",
+      "updatedAt": "2018-04-14T04:13:13.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/F1isQAT2j3HgG_H-C6R0YPNAwv4\"",
+   "id": "UgwpV6F-BamFTAOe4kF4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "mqEe_NHvz5Q",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/v7EdcIOE5kUAD6V-BNhCLuh80bE\"",
+     "id": "UgwpV6F-BamFTAOe4kF4AaABAg",
+     "snippet": {
+      "authorDisplayName": "????",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-qfw96Sgdf6g/AAAAAAAAAAI/AAAAAAAAAAA/v73TA2nDKNA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCTo8NZSWuncYfubTzD9zmiw",
+      "authorChannelId": {
+       "value": "UCTo8NZSWuncYfubTzD9zmiw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "mqEe_NHvz5Q",
+      "textDisplay": "don't just visit french ver.",
+      "textOriginal": "don't just visit french ver.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-04-14T04:12:13.000Z",
+      "updatedAt": "2018-04-14T04:12:13.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NxRyc6O1_O80nIkd9r1wKxuvNYo\"",
+   "id": "Ugy7hORugk_ZIgXHST14AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "mqEe_NHvz5Q",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hKrkSiqBN6sGSDmWNc71dSOvm7Q\"",
+     "id": "Ugy7hORugk_ZIgXHST14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Andreas Krebs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-KupJsKyKOOw/AAAAAAAAAAI/AAAAAAAAAAA/P7-1IE9Ym8w/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC49kdiufvKt3KXebRUTZqpg",
+      "authorChannelId": {
+       "value": "UC49kdiufvKt3KXebRUTZqpg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "mqEe_NHvz5Q",
+      "textDisplay": "Warum f�lscht ihr kundenbewertungen?",
+      "textOriginal": "Warum f�lscht ihr kundenbewertungen?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-04-12T18:45:32.000Z",
+      "updatedAt": "2018-04-12T18:45:32.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qDokkCTlmgCua47y9zWICA7SoYA\"",
+   "id": "UgzvXxGrO79-vbAHRI54AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/572ONEhQKQ0-s7KijW8yVjbnSJ4\"",
+     "id": "UgzvXxGrO79-vbAHRI54AaABAg",
+     "snippet": {
+      "authorDisplayName": "Max Thyme",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-NCmo0VeAJpw/AAAAAAAAAAI/AAAAAAAAAAA/2lxwWtPlL9o/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCG7VPt4KLhW03EzIug98jBQ",
+      "authorChannelId": {
+       "value": "UCG7VPt4KLhW03EzIug98jBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "Fucking hate you fuckers and your shitty garbage WOOOO commercials. Eat shit.",
+      "textOriginal": "Fucking hate you fuckers and your shitty garbage WOOOO commercials. Eat shit.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-04-11T16:40:35.000Z",
+      "updatedAt": "2018-04-11T16:40:35.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Y6cRyW0w6BSIZDM0IL-xRbeIq1o\"",
+   "id": "Ugyh_z9mAlFWk89iM854AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/c02aj53gX2vEDYenFlGm0tnDc0w\"",
+     "id": "Ugyh_z9mAlFWk89iM854AaABAg",
+     "snippet": {
+      "authorDisplayName": "MelodiousWolf",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-qXS4IRx2Lqw/AAAAAAAAAAI/AAAAAAAAAAA/lem7n4Oukro/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCbcWd47Zz8WFwMW2rFYZjqA",
+      "authorChannelId": {
+       "value": "UCbcWd47Zz8WFwMW2rFYZjqA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "Why is everyone hating this commercial? I think it's quite funny cause I would imitate the dog's \"book\" bark :)",
+      "textOriginal": "Why is everyone hating this commercial? I think it's quite funny cause I would imitate the dog's \"book\" bark :)",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-04-10T03:16:56.000Z",
+      "updatedAt": "2018-04-10T03:16:56.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nQnTVgry5wi0KCdFCFIKnzyOyb0\"",
+   "id": "UgzyZZR7kK9_UUY2NLZ4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "sXJsTuYA9us",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-LFSDmieZy6MYLsR8oNvGh4xFGI\"",
+     "id": "UgzyZZR7kK9_UUY2NLZ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "ANDRES CASTRO PACHECO",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-0GcgzeNSC6Y/AAAAAAAAAAI/AAAAAAAAAAA/SIc7uZAuHF8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCWL5nIcqOIGPLFKNYQhkNQw",
+      "authorChannelId": {
+       "value": "UCWL5nIcqOIGPLFKNYQhkNQw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "sXJsTuYA9us",
+      "textDisplay": "que clase de trivago es esto??? :v",
+      "textOriginal": "que clase de trivago es esto??? :v",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-03-30T04:13:09.000Z",
+      "updatedAt": "2018-03-30T04:13:09.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/E4xelAURpSUDcTovR3_u_csEH70\"",
+   "id": "UgxagHfHazLxm_-T-NB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "iblHw4gWpPM",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gpcK0r9lHvQ0poofIVGAUG2inBI\"",
+     "id": "UgxagHfHazLxm_-T-NB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Jamey Mikels",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-QO4_UFBIkR8/AAAAAAAAAAI/AAAAAAAAAAA/SHxWm56KsZ4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCYqolI5A6DDB6nH-w0Q_-VQ",
+      "authorChannelId": {
+       "value": "UCYqolI5A6DDB6nH-w0Q_-VQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "iblHw4gWpPM",
+      "textDisplay": "Expedia is a whole lot better service!",
+      "textOriginal": "Expedia is a whole lot better service!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2018-03-29T16:58:03.000Z",
+      "updatedAt": "2018-03-29T16:58:03.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6NUiRejZcpI4kItIdo45hRl_FAc\"",
+   "id": "UgzYiZ4oEoMWSaYfo1p4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Q28GcDTaTJM",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mjjd-Kh3Kvf81sEcuB5OOXI0L2Q\"",
+     "id": "UgzYiZ4oEoMWSaYfo1p4AaABAg",
+     "snippet": {
+      "authorDisplayName": "JappysStuff",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-AsS8NB14qGc/AAAAAAAAAAI/AAAAAAAAAAA/oTX3SiXrUbQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCuaS08AqrQfkoUXFQkm8Hdg",
+      "authorChannelId": {
+       "value": "UCuaS08AqrQfkoUXFQkm8Hdg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Q28GcDTaTJM",
+      "textDisplay": "*B O O K*",
+      "textOriginal": "*B O O K*",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-03-21T18:56:07.000Z",
+      "updatedAt": "2018-03-21T18:56:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aj_LaC-2KrF4MmCqNyt01evKZLA\"",
+   "id": "Ugy5bINRgAHonakqjC54AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "j0DMwiEoG5g",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Fww7kArpwfZupzYpj_YX_0sKfHo\"",
+     "id": "Ugy5bINRgAHonakqjC54AaABAg",
+     "snippet": {
+      "authorDisplayName": "Dan-y Rico",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-1iBitr4jDco/AAAAAAAAAAI/AAAAAAAAAAA/FDYkKf0HY50/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCpqX6BBSD2h6x6bMFrLDlUA",
+      "authorChannelId": {
+       "value": "UCpqX6BBSD2h6x6bMFrLDlUA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "j0DMwiEoG5g",
+      "textDisplay": "First: Dat ass. But it looks better outdoors!. Then; *I'M A DOLPHIN!* Me: *_NOOOO DOLPHINS DON'T HAVE ONE!!!_*",
+      "textOriginal": "First: Dat ass. But it looks better outdoors!. Then; *I'M A DOLPHIN!* Me: *_NOOOO DOLPHINS DON'T HAVE ONE!!!_*",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-03-11T19:49:29.000Z",
+      "updatedAt": "2018-03-11T19:49:29.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8R8EX67gMyx6ABDuv4Equvw5dzU\"",
+   "id": "Ugye-kmBH4aNIQUprLt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/v22WULnM_iIeH7eDy4WY3Dc5PHw\"",
+     "id": "Ugye-kmBH4aNIQUprLt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "vs saini",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-U58n6Y2Yxxc/AAAAAAAAAAI/AAAAAAAAAAA/9NGmKMmmdiE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCUYLYXpyP9NWZyQgQEl76jQ",
+      "authorChannelId": {
+       "value": "UCUYLYXpyP9NWZyQgQEl76jQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "nice",
+      "textOriginal": "nice",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-03-11T11:43:12.000Z",
+      "updatedAt": "2018-03-11T11:43:12.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/d6fr5LnBQPcN6uZq9uzJfvB89zc\"",
+   "id": "UgxajPt2Tw1-_JpNa_94AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ePgoFQmRiRg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gCGveYlmF0DHLov7mGGFe5dNhdw\"",
+     "id": "UgxajPt2Tw1-_JpNa_94AaABAg",
+     "snippet": {
+      "authorDisplayName": "mav mas",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-K54vi9d-T2g/AAAAAAAAAAI/AAAAAAAAAAA/zOPu4IOy9L0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCaN2cc_bsW6hTSZArEBZfZg",
+      "authorChannelId": {
+       "value": "UCaN2cc_bsW6hTSZArEBZfZg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ePgoFQmRiRg",
+      "textDisplay": "whyyyyyyyyyyyyyy you change the algoritm, i was first of 300!!!! go back nowwwwwwwww",
+      "textOriginal": "whyyyyyyyyyyyyyy you change the algoritm, i was first of 300!!!! go back nowwwwwwwww",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-03-01T01:53:26.000Z",
+      "updatedAt": "2018-03-01T01:53:26.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/voEimF6JX2cNaZQ8LMmevs7BUQs\"",
+   "id": "Ugx9TWa9lB2NIV-dlm54AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "6P93MEOakeg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6lzcHL2DnelEm25jiWnt-4nMlvQ\"",
+     "id": "Ugx9TWa9lB2NIV-dlm54AaABAg",
+     "snippet": {
+      "authorDisplayName": "aSitHa ?aj",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-pnDJTpd_Ht8/AAAAAAAAAAI/AAAAAAAAAAA/Bci84DKJWWs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCU2gko3XLj5clWGt5mXn2Xw",
+      "authorChannelId": {
+       "value": "UCU2gko3XLj5clWGt5mXn2Xw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "6P93MEOakeg",
+      "textDisplay": "??",
+      "textOriginal": "??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-02-21T15:41:50.000Z",
+      "updatedAt": "2018-02-21T15:41:50.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QbjhIvmXR3oVZI2RgOKYPaxgRjs\"",
+   "id": "Ugylm37PLM2gkE29yUl4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "4-x09apaN-o",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5I4UCXf6JZBwXEj2smGMTkQd5NU\"",
+     "id": "Ugylm37PLM2gkE29yUl4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Jackie Brickley",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-IBD-tEHMQLk/AAAAAAAAAAI/AAAAAAAAAAA/e5kXt4qxBrs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCqYfwN-UToSofruFd_Vr_dg",
+      "authorChannelId": {
+       "value": "UCqYfwN-UToSofruFd_Vr_dg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "4-x09apaN-o",
+      "textDisplay": "LOVELY LOVELY WITH LUCK MANY WILL TRY TO TRAVEL THIS YEAR",
+      "textOriginal": "LOVELY LOVELY WITH LUCK MANY WILL TRY TO TRAVEL THIS YEAR",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-02-08T23:25:43.000Z",
+      "updatedAt": "2018-02-08T23:25:43.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6WXXLSVN-8Zj-atAmswSXj4GCGQ\"",
+   "id": "Ugw7YZ2ZMuYsqnePFWt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gPSelHIb1idBwBHHCRgwUZUIcQw\"",
+     "id": "Ugw7YZ2ZMuYsqnePFWt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "jewangel Williams",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-ZfPg7hzXg0U/AAAAAAAAAAI/AAAAAAAAAAA/FMrm-y_DYkY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCf_dYUmUJcOoeFHc7ZeqdeQ",
+      "authorChannelId": {
+       "value": "UCf_dYUmUJcOoeFHc7ZeqdeQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "??????????????????",
+      "textOriginal": "??????????????????",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-02-08T05:50:59.000Z",
+      "updatedAt": "2018-02-08T05:50:59.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xK04KvtboQSZ8AK4r6Il407b0xo\"",
+   "id": "UgyG1nYz2bXLjnwQnm14AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Y0u6AAF6RtY",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NaVHdPgut4UPY5_WCiUglxxMOY4\"",
+     "id": "UgyG1nYz2bXLjnwQnm14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Rewards",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/--gfcKETunMY/AAAAAAAAAAI/AAAAAAAAAAA/v7BUpyfzSTY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCcC9Dar1AP04K6U4w_MVVoA",
+      "authorChannelId": {
+       "value": "UCcC9Dar1AP04K6U4w_MVVoA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Y0u6AAF6RtY",
+      "textDisplay": "https://www.booking.com/s/35_6/bakeka90\n\nGet � 15 for every friend you invite to Booking.com. If your friend books and stays, they get � 15 too.\n\nRicevi � 15 per ogni amico che inviti su Booking.com. Se il tuo amico prenota e soggiorna, verr� premiato anche lui con � 15.\n\n?????????Booking.com??????� 15??????????????� 15?\n\nSie erhalten � 15 f�r jeden Freund, den Sie zu Booking.com einladen. Wenn Ihr Freund bucht und in der Unterkunft �bernachtet, bekommt dieser auch � 15.\n\nRecevez � 15 pour chaque ami que vous avez invit� � r�server sur Booking.com. Si celui-ci r�serve et effectue un s�jour, il recevra �galement � 15.\n\nGana � 15 por cada amigo que invites a Booking.com. Los amigos que reserven y se alojen tambi�n se llevar�n � 15.\n\n???? ??? � 15 ?? ?? ???? ???? ?????? ??? Booking.com. ???? ??? ???????? ?????? ????????? ??????? ??? � 15 ?????.\n\n\n\nSTEP 1: Clicca sul link e prenota/click on the link and book \n\nSTEP 2: Incassa 15�!/take 15�!\n\nSTEP 3: Invita i tuoi amici ed incassa 15� per ogniuno di loro/\nInvite your friends and collect � 15 for each of them.\n\nSTEP 4: ENJOY :=)\nhttps://www.booking.com/s/35_6/bakeka90\nMostra meno\nRISPONDI",
+      "textOriginal": "https://www.booking.com/s/35_6/bakeka90\n\nGet � 15 for every friend you invite to Booking.com. If your friend books and stays, they get � 15 too.\n\nRicevi � 15 per ogni amico che inviti su Booking.com. Se il tuo amico prenota e soggiorna, verr� premiato anche lui con � 15.\n\n?????????Booking.com??????� 15??????????????� 15?\n\nSie erhalten � 15 f�r jeden Freund, den Sie zu Booking.com einladen. Wenn Ihr Freund bucht und in der Unterkunft �bernachtet, bekommt dieser auch � 15.\n\nRecevez � 15 pour chaque ami que vous avez invit� � r�server sur Booking.com. Si celui-ci r�serve et effectue un s�jour, il recevra �galement � 15.\n\nGana � 15 por cada amigo que invites a Booking.com. Los amigos que reserven y se alojen tambi�n se llevar�n � 15.\n\n???? ??? � 15 ?? ?? ???? ???? ?????? ??? Booking.com. ???? ??? ???????? ?????? ????????? ??????? ??? � 15 ?????.\n\n\n\nSTEP 1: Clicca sul link e prenota/click on the link and book \n\nSTEP 2: Incassa 15�!/take 15�!\n\nSTEP 3: Invita i tuoi amici ed incassa 15� per ogniuno di loro/\nInvite your friends and collect � 15 for each of them.\n\nSTEP 4: ENJOY :=)\nhttps://www.booking.com/s/35_6/bakeka90\nMostra meno\nRISPONDI",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-01-31T09:18:25.000Z",
+      "updatedAt": "2018-01-31T09:18:25.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PT0UhXpX-fB4Q-IFvJtQNF4j3-4\"",
+   "id": "UgxTpcz7W2inEu9Lyrp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "2ozGPBYV5s8",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FuexpovdwmOXxcgDKje17_EmLuo\"",
+     "id": "UgxTpcz7W2inEu9Lyrp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "spookyssm11",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-kEFRJlWQU-E/AAAAAAAAAAI/AAAAAAAAAAA/dCZv3ePXHlA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC49xlBbOW5TBQxbySQxT1eQ",
+      "authorChannelId": {
+       "value": "UC49xlBbOW5TBQxbySQxT1eQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "2ozGPBYV5s8",
+      "textDisplay": "You are kidding you can not even resolve a simple payment issue have been working on it for a week then tell me this is new when I printed off emails from TA since 2015 having the same problem as me ever would I use this again",
+      "textOriginal": "You are kidding you can not even resolve a simple payment issue have been working on it for a week then tell me this is new when I printed off emails from TA since 2015 having the same problem as me ever would I use this again",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-01-26T21:37:04.000Z",
+      "updatedAt": "2018-01-26T21:37:04.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wOCg6EfGd3J493reSFzJuXxs720\"",
+   "id": "UgxFyIVI0uWR5L28QRt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "teEiT1urmB8",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gBiBK20AktOzPP4Me4cPmzr0ZY0\"",
+     "id": "UgxFyIVI0uWR5L28QRt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Stacy Cervenka",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-IFmz1_bsBLM/AAAAAAAAAAI/AAAAAAAAAAA/anhPKTT9vLE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCh4yUuh8JbxyiN4VICvGNpg",
+      "authorChannelId": {
+       "value": "UCh4yUuh8JbxyiN4VICvGNpg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "teEiT1urmB8",
+      "textDisplay": "Hi, everyone. I need your help! I have recently entered the competition for the Holman Prize, which is being put on by the San Francisco Lighthouse for the Blind. The Holman Prize annually funds three projects that are developed by people who are blind that challenge people's misconceptions about blindness. My husband and I are both blind and we have two young children who are sighted. We love to travel as a couple and as a family across the country and around the world, both for recreation and for work. My project idea is to create a free online travel forum, similar to Yelp, TripAdvisor, or CruiseCritic, where blind and low vision people can write reviews of places they go and ask and answer questions of other blind travel enthusiasts. The site would also feature video blogs and advice columns by blind travel agents and seasoned blind travelers. The Holman Prize applicant who receives the most \"likes\" on their YouTube video pitch by February 28  automatically makes it to the final round of the competition as the People's Choice Finalist. Can you please take a moment to watch my video on YouTube and give it a like? It's important to like the video directly on YouTube, as likes on Nextdoor or Facebook or Twitter don't count. Also, please feel free to share the video with your friends, family, and social networks! THANK YOU!! https://youtu.be/hhP_RfWaIQU",
+      "textOriginal": "Hi, everyone. I need your help! I have recently entered the competition for the Holman Prize, which is being put on by the San Francisco Lighthouse for the Blind. The Holman Prize annually funds three projects that are developed by people who are blind that challenge people's misconceptions about blindness. My husband and I are both blind and we have two young children who are sighted. We love to travel as a couple and as a family across the country and around the world, both for recreation and for work. My project idea is to create a free online travel forum, similar to Yelp, TripAdvisor, or CruiseCritic, where blind and low vision people can write reviews of places they go and ask and answer questions of other blind travel enthusiasts. The site would also feature video blogs and advice columns by blind travel agents and seasoned blind travelers. The Holman Prize applicant who receives the most \"likes\" on their YouTube video pitch by February 28  automatically makes it to the final round of the competition as the People's Choice Finalist. Can you please take a moment to watch my video on YouTube and give it a like? It's important to like the video directly on YouTube, as likes on Nextdoor or Facebook or Twitter don't count. Also, please feel free to share the video with your friends, family, and social networks! THANK YOU!! https://youtu.be/hhP_RfWaIQU",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-01-23T00:56:57.000Z",
+      "updatedAt": "2018-01-23T00:56:57.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sn1EXRaRIQT1VLvzM9QlIxs-U7g\"",
+   "id": "UgwHyiw_7cLLZDWx5iN4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "1HVUb-X8Sfc",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sDOl5UgsqUrU9ieWVTFKcpzKjAM\"",
+     "id": "UgwHyiw_7cLLZDWx5iN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Tommy Nugroho",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Ln8mu9JxXRM/AAAAAAAAAAI/AAAAAAAAAAA/4Y_2ecHrfrU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCZlEIAhHEgfmE7EU2K_wz_A",
+      "authorChannelId": {
+       "value": "UCZlEIAhHEgfmE7EU2K_wz_A"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "1HVUb-X8Sfc",
+      "textDisplay": "Bali Indonesia ?????",
+      "textOriginal": "Bali Indonesia ?????",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-01-20T04:24:53.000Z",
+      "updatedAt": "2018-01-20T04:24:53.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3snep7dZ-uVC4hvDHUAaWNDgMt0\"",
+   "id": "Ugw3-10YKg7B37i4W_14AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fXLnPDgvNSFGCRaJIzzvLIpC448\"",
+     "id": "Ugw3-10YKg7B37i4W_14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Frank Moffatt",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-8zUyW_RT8XU/AAAAAAAAAAI/AAAAAAAAAAA/p5NPPHZXbb0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCCZVm13bhAdRkJXwiqaT77g",
+      "authorChannelId": {
+       "value": "UCCZVm13bhAdRkJXwiqaT77g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "I am having great difficulty getting a genuine review accepted.  It was a great experience and I have added some really useful information for people.  Asked for help from the Forum. Got lots of ideas. None worked.  Contacted TA help. Was only referred to the guidelines & advised to try again.  Their fraud detection system is flawed.  And that calls into question their credibility - at least to some extent.  The majority of my reviews have been published bet every now & again I am left baffled as to why something is not published. And worst of all they don't even inform me.  The review just disappears without trace.  Strange.",
+      "textOriginal": "I am having great difficulty getting a genuine review accepted.  It was a great experience and I have added some really useful information for people.  Asked for help from the Forum. Got lots of ideas. None worked.  Contacted TA help. Was only referred to the guidelines & advised to try again.  Their fraud detection system is flawed.  And that calls into question their credibility - at least to some extent.  The majority of my reviews have been published bet every now & again I am left baffled as to why something is not published. And worst of all they don't even inform me.  The review just disappears without trace.  Strange.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-01-16T21:03:08.000Z",
+      "updatedAt": "2018-01-16T21:05:34.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hlRp3WzHPWwqKwoN1myyJFNeYCs\"",
+   "id": "Ugzd2uIrqBEQPHJ4Fbp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HuUurhD00iEsTWL7r9-j0NwIS_Y\"",
+     "id": "Ugzd2uIrqBEQPHJ4Fbp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Harish Saini",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-i2Brp8g4QcA/AAAAAAAAAAI/AAAAAAAAAAA/dvTfDQ2Z_94/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCga4CFUQTgy42cSAa6_hJBQ",
+      "authorChannelId": {
+       "value": "UCga4CFUQTgy42cSAa6_hJBQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "When we write a review on Tripadvisor then we get some points. Can you please tell me that what is the use of these points??",
+      "textOriginal": "When we write a review on Tripadvisor then we get some points. Can you please tell me that what is the use of these points??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-01-16T19:15:30.000Z",
+      "updatedAt": "2018-01-16T19:15:30.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TEoqiDoshffy45LR80OewLWw2x4\"",
+   "id": "UgzkG6U3zAxqwHCvWCt4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "y3TvyJsu96I",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eYS9lRvTJgQZW5mE2FpMV_IJszY\"",
+     "id": "UgzkG6U3zAxqwHCvWCt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Adrianpeters Peters",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-jdkOwJvSXj0/AAAAAAAAAAI/AAAAAAAAAAA/dojh-zYFjpk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCZj9LHj8bNbQYbO6172ZQYA",
+      "authorChannelId": {
+       "value": "UCZj9LHj8bNbQYbO6172ZQYA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "y3TvyJsu96I",
+      "textDisplay": "Oh yeah, ha ha, trip advisor according to there view, made a review, without any non truths according to my view, perhaps useing the word vietscam and not vietnam upset them ,to ban the review, i know, i have an idea here, go to bali they will not blow you up there,or try to,oops, do not go there either...banned again, no bomb exploded there then, oh o.k go to england instead,there are no poor people there at all......my reviews have now stoped.......",
+      "textOriginal": "Oh yeah, ha ha, trip advisor according to there view, made a review, without any non truths according to my view, perhaps useing the word vietscam and not vietnam upset them ,to ban the review, i know, i have an idea here, go to bali they will not blow you up there,or try to,oops, do not go there either...banned again, no bomb exploded there then, oh o.k go to england instead,there are no poor people there at all......my reviews have now stoped.......",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-12-27T12:28:45.000Z",
+      "updatedAt": "2017-12-27T12:28:45.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/T3R3_0czO8lwehgYVCmmQFrUKe0\"",
+   "id": "UgyRoY-4HaSLimPPVGV4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "1HVUb-X8Sfc",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XRwtNB5tMOIt1YuJSL9PTrjpmTg\"",
+     "id": "UgyRoY-4HaSLimPPVGV4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Selly Intani",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-4yyJoJIlyW8/AAAAAAAAAAI/AAAAAAAAAAA/U2SKUstTGk4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCAMumgJl49MGgiZm-YMlTSA",
+      "authorChannelId": {
+       "value": "UCAMumgJl49MGgiZm-YMlTSA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "1HVUb-X8Sfc",
+      "textDisplay": "congrats bali,indonesia",
+      "textOriginal": "congrats bali,indonesia",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-12-27T04:53:27.000Z",
+      "updatedAt": "2017-12-27T04:53:27.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/25vu764JhBXtm4hYw_mFYm2Bocg\"",
+   "id": "UgwCd6j06y71qLPgPgB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "o0ruWo-aT20",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/h8zcf5xMoQ16-NoIFRhOSo9BY70\"",
+     "id": "UgwCd6j06y71qLPgPgB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "adalbertogonzaga",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-U5bqYC6tHc8/AAAAAAAAAAI/AAAAAAAAAAA/4nX-_ia7hwU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCyphMrSX1_oSyI2VXZGtIUw",
+      "authorChannelId": {
+       "value": "UCyphMrSX1_oSyI2VXZGtIUw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "o0ruWo-aT20",
+      "textDisplay": "I do recommend this one!\n\nhttps://www.youtube.com/watch?v=nG6uKqG0QLs",
+      "textOriginal": "I do recommend this one!\n\nhttps://www.youtube.com/watch?v=nG6uKqG0QLs",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-12-22T20:39:32.000Z",
+      "updatedAt": "2017-12-22T20:39:32.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/m9d6IOZoYThiJpPlVldeIeCbdAo\"",
+   "id": "UgxjjodP-p_bYWYnfsl4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cOn7eBkD8Jy7CR41hlKVZjLX9tw\"",
+     "id": "UgxjjodP-p_bYWYnfsl4AaABAg",
+     "snippet": {
+      "authorDisplayName": "TheSharpmarksman",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-IHjzPNWLFME/AAAAAAAAAAI/AAAAAAAAAAA/3H_4bRS9SnU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCUiX54n23JibBiAadKr91ig",
+      "authorChannelId": {
+       "value": "UCUiX54n23JibBiAadKr91ig"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "hey motherfuckers, how about rank hotels from \"most helpful\" rather than \"most popular\" \nit's absurd how the main page of some hotels are full with fake 5 star reviews \nand when going to 1-2 stars you see the most helpful reviews are negative! \nwhy aren't they featured?",
+      "textOriginal": "hey motherfuckers, how about rank hotels from \"most helpful\" rather than \"most popular\" \nit's absurd how the main page of some hotels are full with fake 5 star reviews \nand when going to 1-2 stars you see the most helpful reviews are negative! \nwhy aren't they featured?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-12-19T23:00:29.000Z",
+      "updatedAt": "2017-12-19T23:00:29.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JlhyDTQf3f0F-whY9IDKaFaBW_A\"",
+   "id": "UgzxZPJDXE7Sa8RLgFd4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ePgoFQmRiRg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/l-ospdl_uSNCGhYwekVuavX4_Ro\"",
+     "id": "UgzxZPJDXE7Sa8RLgFd4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Rose Tyler",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FaPrl0ZH_E8/AAAAAAAAAAI/AAAAAAAAAAA/sL1zaLKH5pY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCCzOv2Srt_Lb9T-u4sXUztA",
+      "authorChannelId": {
+       "value": "UCCzOv2Srt_Lb9T-u4sXUztA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ePgoFQmRiRg",
+      "textDisplay": "ID CARD and non-anonymous profiles For secure reviews.\nMany restaurants, pubs, bars, hotels etc. want to take away Tripadvisor because many reviews are fake, so just ask yourself these simple rules!\n-1 In tripadvisor you need to have only one profile with name and surname and photo.\n2-in tripadvisor you have to make sure that everyone shows the identity card to the site (only for tripadvisor bureaucracy itself).\n3-It is necessary to make sure that who does not put the first rules within a month the profile will be deleted without being able to reopen it.\n4-in tripadvisor you can not use any threat and insult and racist comments.\n5-You have to do it, I know people who are afraid of tripadvisor, you miss us, this site is not facebook people lose money and popularity for people sad bored.",
+      "textOriginal": "ID CARD and non-anonymous profiles For secure reviews.\nMany restaurants, pubs, bars, hotels etc. want to take away Tripadvisor because many reviews are fake, so just ask yourself these simple rules!\n-1 In tripadvisor you need to have only one profile with name and surname and photo.\n2-in tripadvisor you have to make sure that everyone shows the identity card to the site (only for tripadvisor bureaucracy itself).\n3-It is necessary to make sure that who does not put the first rules within a month the profile will be deleted without being able to reopen it.\n4-in tripadvisor you can not use any threat and insult and racist comments.\n5-You have to do it, I know people who are afraid of tripadvisor, you miss us, this site is not facebook people lose money and popularity for people sad bored.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-12-09T23:29:46.000Z",
+      "updatedAt": "2017-12-09T23:29:46.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XurWUqiGacaGkldeGwWeXOT_960\"",
+   "id": "UgxU0ibi7Gmfumn0yhp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ePgoFQmRiRg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vgWK9-i3SzmQsx1R5TJl1lQPSP4\"",
+     "id": "UgxU0ibi7Gmfumn0yhp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Tsering Thongdok",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9a8JikLpeCQ/AAAAAAAAAAI/AAAAAAAAAAA/PbxjYg_1VRY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC7PUOiW_Cbuniv1Gs54dw2g",
+      "authorChannelId": {
+       "value": "UC7PUOiW_Cbuniv1Gs54dw2g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ePgoFQmRiRg",
+      "textDisplay": "Fraudadviser is more like it...TripAdvisor removes bad reviews even if they are genuine... What a lame website.",
+      "textOriginal": "Fraudadviser is more like it...TripAdvisor removes bad reviews even if they are genuine... What a lame website.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-11-12T21:57:59.000Z",
+      "updatedAt": "2017-11-12T21:59:00.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CtulWUDAW2JSE7eQHNZr8iv2aTg\"",
+   "id": "UgyQGOD_Vjq4H6Q9u0V4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EBk5DoXzEzss0ywwdvbJsq46eF8\"",
+     "id": "UgyQGOD_Vjq4H6Q9u0V4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Tsering Thongdok",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9a8JikLpeCQ/AAAAAAAAAAI/AAAAAAAAAAA/PbxjYg_1VRY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC7PUOiW_Cbuniv1Gs54dw2g",
+      "authorChannelId": {
+       "value": "UC7PUOiW_Cbuniv1Gs54dw2g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "TripAdvisor is a fraud company...they will remove bad reviews even if the review is genuine and other guests have voiced similar complaints...and the reviewer has posted pics to backup the complaint...never trust TripAdvisor.",
+      "textOriginal": "TripAdvisor is a fraud company...they will remove bad reviews even if the review is genuine and other guests have voiced similar complaints...and the reviewer has posted pics to backup the complaint...never trust TripAdvisor.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2017-11-12T21:55:12.000Z",
+      "updatedAt": "2017-11-12T21:55:12.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/V-pY5Ry_pzMCBJV3NQ0seUxrw9w\"",
+   "id": "UgzBMV__y8DMYK_JIYZ4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Y0u6AAF6RtY",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EXTQgddTfW4kSbqG5xsoDCgNLyE\"",
+     "id": "UgzBMV__y8DMYK_JIYZ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Hossin Abbas",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-6Ejz1k3CYRE/AAAAAAAAAAI/AAAAAAAAAAA/8d3qujnDGBA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC1J5Sn3tQgtimvTl_g_Ew2g",
+      "authorChannelId": {
+       "value": "UC1J5Sn3tQgtimvTl_g_Ew2g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Y0u6AAF6RtY",
+      "textDisplay": "Le Bedouin",
+      "textOriginal": "Le Bedouin",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-11-06T21:53:29.000Z",
+      "updatedAt": "2017-11-06T21:53:29.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/k7aMcVBaWN0qAewcki4RleD_KhE\"",
+   "id": "UgwqS_jtXUhrHLK3-jZ4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ePgoFQmRiRg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GqR_A_tKnOz2_MkqRN7ZFj2GlAU\"",
+     "id": "UgwqS_jtXUhrHLK3-jZ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "ransom",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-HN1pb6s6CGo/AAAAAAAAAAI/AAAAAAAAAAA/RVJllZJK13U/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC6zSWeV7pA9Ib42JAcd-8cA",
+      "authorChannelId": {
+       "value": "UC6zSWeV7pA9Ib42JAcd-8cA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ePgoFQmRiRg",
+      "textDisplay": "TripAdvisor knows all too well the power of reviews. Thats why they remove truthful reviews that are negative, even when people�s safety is at risk. I uninstalled the app and will not support a company that supports rape or rapists. Fuck you.",
+      "textOriginal": "TripAdvisor knows all too well the power of reviews. Thats why they remove truthful reviews that are negative, even when people�s safety is at risk. I uninstalled the app and will not support a company that supports rape or rapists. Fuck you.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2017-11-01T22:52:01.000Z",
+      "updatedAt": "2017-11-01T22:52:01.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kBB5dDfDaagMZ30tL3fTRTS6sPw\"",
+   "id": "Ugx-A5H-AbcScMnwEJF4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JkghXx8c4HMNRw4ixm0tYdUd7Es\"",
+     "id": "Ugx-A5H-AbcScMnwEJF4AaABAg",
+     "snippet": {
+      "authorDisplayName": "jamal kamali",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-gBpTOBPrG1s/AAAAAAAAAAI/AAAAAAAAAAA/dfqerRn3_mg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCLDaB_N0S6J5BUW_gWO3leg",
+      "authorChannelId": {
+       "value": "UCLDaB_N0S6J5BUW_gWO3leg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "https://www.booking.com/s/35_6/aitelh97",
+      "textOriginal": "https://www.booking.com/s/35_6/aitelh97",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-10-28T11:21:52.000Z",
+      "updatedAt": "2017-10-28T11:21:52.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-VGE0TFJJg6PVFWS97ssd2nmhb8\"",
+   "id": "UgxShxhajrBOzRMrkc54AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "S0L8o2wtz58",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/P7bOqnBdnAXbu7nPTt8AFpujiho\"",
+     "id": "UgxShxhajrBOzRMrkc54AaABAg",
+     "snippet": {
+      "authorDisplayName": "jamal kamali",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-gBpTOBPrG1s/AAAAAAAAAAI/AAAAAAAAAAA/dfqerRn3_mg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCLDaB_N0S6J5BUW_gWO3leg",
+      "authorChannelId": {
+       "value": "UCLDaB_N0S6J5BUW_gWO3leg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "S0L8o2wtz58",
+      "textDisplay": "https://www.booking.com/s/35_6/aitelh97 \nHELLO !!!\nAre you looking for a hotel ?\nbook your room Quickly through the website booking\nAnd you receive US $ 15 on your credit card after your stay.\nLink to this offer    https://www.booking.com/s/35_6/aitelh97 \n**************************\nBONJOUR !!!\nVous cherchez un h�tel ?\nVite r�server votre chambre via le site booking\nEt vous recevez US$15 sur votre carte de cr�dit Apr�s votre s�jour.\nJ�en profite de l�offre  https://www.booking.com/s/35_6/aitelh97 \n**************************",
+      "textOriginal": "https://www.booking.com/s/35_6/aitelh97 \nHELLO !!!\nAre you looking for a hotel ?\nbook your room Quickly through the website booking\nAnd you receive US $ 15 on your credit card after your stay.\nLink to this offer    https://www.booking.com/s/35_6/aitelh97 \n**************************\nBONJOUR !!!\nVous cherchez un h�tel ?\nVite r�server votre chambre via le site booking\nEt vous recevez US$15 sur votre carte de cr�dit Apr�s votre s�jour.\nJ�en profite de l�offre  https://www.booking.com/s/35_6/aitelh97 \n**************************",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-10-28T11:21:30.000Z",
+      "updatedAt": "2017-10-28T11:21:30.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ho-YQH0_k2RvLygtjpeyEmndsds\"",
+   "id": "UgwXJmDOqPwL8Xhfe2d4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ePgoFQmRiRg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vzp7mN88d7uHbwVtJ4uDbHgYRno\"",
+     "id": "UgwXJmDOqPwL8Xhfe2d4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Jo Go",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-RwpUpLV0Vfs/AAAAAAAAAAI/AAAAAAAAAAA/2qkdIq47Pc8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCDKg1VtthyQaMkjP0_-eW8A",
+      "authorChannelId": {
+       "value": "UCDKg1VtthyQaMkjP0_-eW8A"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ePgoFQmRiRg",
+      "textDisplay": "Most reviews on Trip Advisor are biased.  Only good reviews are allowed.  Years ago you could tell the truth about a place that you went to and didn't like.  Now, unless it's a good review they won't post it.  Use Google Reviews to look up the place you are interested in.",
+      "textOriginal": "Most reviews on Trip Advisor are biased.  Only good reviews are allowed.  Years ago you could tell the truth about a place that you went to and didn't like.  Now, unless it's a good review they won't post it.  Use Google Reviews to look up the place you are interested in.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 4,
+      "publishedAt": "2017-10-17T00:16:53.000Z",
+      "updatedAt": "2017-10-17T00:16:53.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BR1DVhduYPDRzXWoFTwpNscAQcI\"",
+   "id": "UgxLVWWb5x4R9mwSnt54AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "vS2HJqXMHpQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mrltihdLYzf3up3aFDffIYaPXKs\"",
+     "id": "UgxLVWWb5x4R9mwSnt54AaABAg",
+     "snippet": {
+      "authorDisplayName": "Speedy Knave",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-LsNDVVhYHKQ/AAAAAAAAAAI/AAAAAAAAAAA/W5Ahk4X0PNw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCT189b_4ArWYTcEs23ZisqA",
+      "authorChannelId": {
+       "value": "UCT189b_4ArWYTcEs23ZisqA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "vS2HJqXMHpQ",
+      "textDisplay": "Book",
+      "textOriginal": "Book",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-10-01T16:04:38.000Z",
+      "updatedAt": "2017-10-01T16:04:38.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DQDMJVqhlQTguf44B2ENkLMNB9Y\"",
+   "id": "UgybL5gNRtLExJP4sBB4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "vS2HJqXMHpQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uy5XRJrVZZaHs04bo_yie22Gfgs\"",
+     "id": "UgybL5gNRtLExJP4sBB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "SW Shed",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-3a-ZfuOsN_w/AAAAAAAAAAI/AAAAAAAAAAA/QwKPOE9yJdc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCIBGgZY6APuW7-j8MMK5brA",
+      "authorChannelId": {
+       "value": "UCIBGgZY6APuW7-j8MMK5brA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "vS2HJqXMHpQ",
+      "textDisplay": "RESERVEZ",
+      "textOriginal": "RESERVEZ",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-09-24T02:07:58.000Z",
+      "updatedAt": "2017-09-24T02:07:58.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nHB0XESyD_XtZ1pUpeRn8JOzmMM\"",
+   "id": "Uggbg6ItjZ1IDHgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "P7iD1EUfey0",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SaZgFjUCN86lkZV5pREqcDbbjFg\"",
+     "id": "Uggbg6ItjZ1IDHgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Official GamerXD",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-LYr3tP1PtO8/AAAAAAAAAAI/AAAAAAAAAAA/HmLFq7kIsYg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC26kTvJkTiwrdDIbvArMG7Q",
+      "authorChannelId": {
+       "value": "UC26kTvJkTiwrdDIbvArMG7Q"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "P7iD1EUfey0",
+      "textDisplay": "Jeff im Kate, yokwe from Jable, ij et am mour?......ur dive partner jen Alele-Bilbo. Ij bed ilo Big Islands, Hilo. Cell # 808-209-7249",
+      "textOriginal": "Jeff im Kate, yokwe from Jable, ij et am mour?......ur dive partner jen Alele-Bilbo. Ij bed ilo Big Islands, Hilo. Cell # 808-209-7249",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-09-21T08:50:09.000Z",
+      "updatedAt": "2017-09-21T08:50:09.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/14V2IjLAE2VGYcfzp1Ipk7lsIGo\"",
+   "id": "UgysDCqFLje9sDXOzxF4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UAcLinPSQhNiWykjlRzynyqimM8\"",
+     "id": "UgysDCqFLje9sDXOzxF4AaABAg",
+     "snippet": {
+      "authorDisplayName": "patrick patrick",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-V3zKNJxuyWU/AAAAAAAAAAI/AAAAAAAAAAA/uTZ5uG12lZc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCjSRe-ZOH7b0CsUtXSrC5Tw",
+      "authorChannelId": {
+       "value": "UCjSRe-ZOH7b0CsUtXSrC5Tw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "Hate to pee in your coffee just when you  dunk your digestive biscuit. Tripadvisor  will charge between 8%_14% on booking charges.They dont tell you till the day you pay for your hotel room etc.\nThe percentage is based on the price of your holiday,room,apartment etc .\nSomething to consider when everything goes wrong and tripadvisor dont want to help or cant help.",
+      "textOriginal": "Hate to pee in your coffee just when you  dunk your digestive biscuit. Tripadvisor  will charge between 8%_14% on booking charges.They dont tell you till the day you pay for your hotel room etc.\nThe percentage is based on the price of your holiday,room,apartment etc .\nSomething to consider when everything goes wrong and tripadvisor dont want to help or cant help.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-29T14:59:59.000Z",
+      "updatedAt": "2017-08-29T14:59:59.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ILvFGAJ6VLwetxBXjJY6VROaejk\"",
+   "id": "Ugy7Z5Gtu-Ac19xh1St4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "FJ2U9RaOi_4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/S2NOru8nixLhMmrrylNeFhbEh0g\"",
+     "id": "Ugy7Z5Gtu-Ac19xh1St4AaABAg",
+     "snippet": {
+      "authorDisplayName": "patrick patrick",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-V3zKNJxuyWU/AAAAAAAAAAI/AAAAAAAAAAA/uTZ5uG12lZc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCjSRe-ZOH7b0CsUtXSrC5Tw",
+      "authorChannelId": {
+       "value": "UCjSRe-ZOH7b0CsUtXSrC5Tw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "FJ2U9RaOi_4",
+      "textDisplay": "These guys look and act like people in a religious cult.",
+      "textOriginal": "These guys look and act like people in a religious cult.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-29T14:44:24.000Z",
+      "updatedAt": "2017-08-29T14:44:24.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hApUeFm6tCPRexLFdKLdowoXa-4\"",
+   "id": "UgynVjvQPT8gOoVUYf94AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "WEIGXrKQTL4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M0O382CD0Pdg1qhyJJanAYUcPwo\"",
+     "id": "UgynVjvQPT8gOoVUYf94AaABAg",
+     "snippet": {
+      "authorDisplayName": "jacque Gallo",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-LfKTH3FuXp4/AAAAAAAAAAI/AAAAAAAAAAA/mY90bFIJ-2o/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCe2yRcH6z8cVe-8fVChUkrw",
+      "authorChannelId": {
+       "value": "UCe2yRcH6z8cVe-8fVChUkrw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "WEIGXrKQTL4",
+      "textDisplay": "Es hermoso !!!",
+      "textOriginal": "Es hermoso !!!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-19T00:04:48.000Z",
+      "updatedAt": "2017-08-19T00:04:48.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NAc7yRIR8j7I_EmWBhQq2-zI0N4\"",
+   "id": "UgwYulzHsjS6agw4epN4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gS8nfMkfvSbenJR-N_7sVWPGCxo\"",
+     "id": "UgwYulzHsjS6agw4epN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Saul Munoz",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-6z18_-HtXUI/AAAAAAAAAAI/AAAAAAAAAAA/lDVlWwA6jxM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC6t3ZP8uliBA_pKfKe7A-zg",
+      "authorChannelId": {
+       "value": "UC6t3ZP8uliBA_pKfKe7A-zg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "I might be the only person who actually likes this ad",
+      "textOriginal": "I might be the only person who actually likes this ad",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-18T18:50:48.000Z",
+      "updatedAt": "2017-08-18T18:50:48.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vDRlfdum2sDgtBd-afFs1vT_abI\"",
+   "id": "Ugyv17fw_9kSTGCME_B4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5num0rKvVTCiVMycBfm5CbtcRiA\"",
+     "id": "Ugyv17fw_9kSTGCME_B4AaABAg",
+     "snippet": {
+      "authorDisplayName": "MILAGROS",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-NYor6T7xxv4/AAAAAAAAAAI/AAAAAAAAAAA/Up2WQL_AOx8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCPgmQkdc_gvMvtL1usn3A-w",
+      "authorChannelId": {
+       "value": "UCPgmQkdc_gvMvtL1usn3A-w"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "LO MEJOR DE LO MEJOR : EXCELENTE ATENCION N CASA BUSTAMANTE  SR MIGUEL LEONES",
+      "textOriginal": "LO MEJOR DE LO MEJOR : EXCELENTE ATENCION N CASA BUSTAMANTE  SR MIGUEL LEONES",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-13T12:01:12.000Z",
+      "updatedAt": "2017-08-13T12:01:12.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YfGz6rw3WROH_ccTRy1OBKreyls\"",
+   "id": "UgxaV-IJz2PAh0WTITp4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zq5qqt0kaI05qn4NEZWTXJW7SAQ\"",
+     "id": "UgxaV-IJz2PAh0WTITp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Adameeze",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-3lyaOpTlseA/AAAAAAAAAAI/AAAAAAAAAAA/lIAY2L81Brc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCeobhM3h1-0Y-hyalaKCxcw",
+      "authorChannelId": {
+       "value": "UCeobhM3h1-0Y-hyalaKCxcw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "I love this ad",
+      "textOriginal": "I love this ad",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-12T05:13:54.000Z",
+      "updatedAt": "2017-08-12T05:13:54.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7izGqtU3tS9mfmBrWh8Injd11CE\"",
+   "id": "UgzonCf__ErA2oGG89B4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "1HVUb-X8Sfc",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/q132khWFMJAkZrJ-tuu6yWzoIfc\"",
+     "id": "UgzonCf__ErA2oGG89B4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Tum Ouk",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-34Eas5Iv2ak/AAAAAAAAAAI/AAAAAAAAAAA/5bYTTwhyvso/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC6aiRK8Vzq3IyohbhjX7Kbw",
+      "authorChannelId": {
+       "value": "UC6aiRK8Vzq3IyohbhjX7Kbw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "1HVUb-X8Sfc",
+      "textDisplay": "Wow Siem Reap top 8 congrats ????",
+      "textOriginal": "Wow Siem Reap top 8 congrats ????",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-08-11T20:32:50.000Z",
+      "updatedAt": "2017-08-11T20:32:50.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4DCQPVKHp9WAaDctnoIx2UZWhNU\"",
+   "id": "UgxJzyv8lR-vz1zdgjx4AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pIodMxAIisY_ZuQV-fzDQTIg8QE\"",
+     "id": "UgxJzyv8lR-vz1zdgjx4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Johnathon Barker",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Hle_Lb469Eo/AAAAAAAAAAI/AAAAAAAAAAA/lZswy19Sj5Y/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCbDImhkfiJHJhtuMaTEMGvA",
+      "authorChannelId": {
+       "value": "UCbDImhkfiJHJhtuMaTEMGvA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "I kind of miss that Dog saying, Book!, I remember watching the Commercial on TV and this was 2 Years Ago & i just moved in the State of Iowa for the First Time & listening to, Book! just now Takes me back to when i first made it here, I know it sounds a bit Weird hearing something from a Commercial 2 Years Ago and then making you think of a certain memory from awhile ago but, Hey! it's True. \n\nI do miss that Dog's BOOK! Quote for a nearly 2 Years & haven't heard it Since! :D",
+      "textOriginal": "I kind of miss that Dog saying, Book!, I remember watching the Commercial on TV and this was 2 Years Ago & i just moved in the State of Iowa for the First Time & listening to, Book! just now Takes me back to when i first made it here, I know it sounds a bit Weird hearing something from a Commercial 2 Years Ago and then making you think of a certain memory from awhile ago but, Hey! it's True. \n\nI do miss that Dog's BOOK! Quote for a nearly 2 Years & haven't heard it Since! :D",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-08-10T04:03:52.000Z",
+      "updatedAt": "2017-08-10T04:04:45.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MUKM9PlG0GujlhyLWzOiXzMygCU\"",
+   "id": "UgyG1RJHoSDLzIKNaL94AaABAg",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "4Nm9xR2zYBo",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7CdyoFjvGyh-N4zyUT8O06cTZzo\"",
+     "id": "UgyG1RJHoSDLzIKNaL94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Growing up Garcia",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Y2MxwajzAF8/AAAAAAAAAAI/AAAAAAAAAAA/JisKmduKVV0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCqQzLceRo7hTwojN8sG2wsQ",
+      "authorChannelId": {
+       "value": "UCqQzLceRo7hTwojN8sG2wsQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "4Nm9xR2zYBo",
+      "textDisplay": "Thanks for the tips, we are visiting in just a few weeks ??",
+      "textOriginal": "Thanks for the tips, we are visiting in just a few weeks ??",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-08-10T03:21:02.000Z",
+      "updatedAt": "2017-08-10T03:21:02.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/izA_FJ0xCzmh34ksAhvHQxv-uzs\"",
+   "id": "UggRdnEJx_EnqXgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "1HVUb-X8Sfc",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ue4Xo7QMhs6_almXbe49E8vvBF0\"",
+     "id": "UggRdnEJx_EnqXgCoAEC",
+     "snippet": {
+      "authorDisplayName": "lulu syahputri",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-hD3L8u5nk9I/AAAAAAAAAAI/AAAAAAAAAAA/SJeO_Je4VLM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCaFPijMDrMl7msGdGHYbX-g",
+      "authorChannelId": {
+       "value": "UCaFPijMDrMl7msGdGHYbX-g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "1HVUb-X8Sfc",
+      "textDisplay": "proud to be Balinese and Love Indonesia ...#wonderful Indonesia",
+      "textOriginal": "proud to be Balinese and Love Indonesia ...#wonderful Indonesia",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-30T15:30:44.000Z",
+      "updatedAt": "2017-07-30T15:30:44.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1JA5m5LZkZo96w_DRA1iEVqHPqU\"",
+   "id": "UgjDG2jgT2YbN3gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "sXJsTuYA9us",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YiQyxoHwuTYQQinmo4MmXpsvQ0E\"",
+     "id": "UgjDG2jgT2YbN3gCoAEC",
+     "snippet": {
+      "authorDisplayName": "Crickett Karmaa",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-0W7oVWuF5oU/AAAAAAAAAAI/AAAAAAAAAAA/VBbA1oVbkKA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCFvSQ4HfC6zmrPqjdCrOtZQ",
+      "authorChannelId": {
+       "value": "UCFvSQ4HfC6zmrPqjdCrOtZQ"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "sXJsTuYA9us",
+      "textDisplay": "Cheats!!!!!",
+      "textOriginal": "Cheats!!!!!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-21T21:42:01.000Z",
+      "updatedAt": "2017-07-21T21:42:01.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XMEQENo_VgqfEMl0X1H5VFv3S6A\"",
+   "id": "UgjHpCKEu_VaS3gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Tdx1YSFBXas",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DbogGNihwjAYcz71sv458JubV_0\"",
+     "id": "UgjHpCKEu_VaS3gCoAEC",
+     "snippet": {
+      "authorDisplayName": "JeyJomnas X",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-WPAUNBCd06s/AAAAAAAAAAI/AAAAAAAAAAA/SBpn37-PD5k/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC_gZQCrnQA2qQxS_aVF1G9A",
+      "authorChannelId": {
+       "value": "UC_gZQCrnQA2qQxS_aVF1G9A"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Tdx1YSFBXas",
+      "textDisplay": "Lovely video ??????",
+      "textOriginal": "Lovely video ??????",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-07-09T11:59:40.000Z",
+      "updatedAt": "2017-07-09T11:59:40.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-Gn3gGHwTSpUNaCCN_vB9XwNK9k\"",
+   "id": "UghQyQxxIG4G_3gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "Y2OicGsv-nw",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/11DDzuMV-2iqqdqpsunSeiCsXOM\"",
+     "id": "UghQyQxxIG4G_3gCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "Y2OicGsv-nw",
+      "textDisplay": "wow not many hits mabe you should stop advertising on cnn fake news network",
+      "textOriginal": "wow not many hits mabe you should stop advertising on cnn fake news network",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:09:28.000Z",
+      "updatedAt": "2017-07-06T03:09:28.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OpnAb52s-ReqXw4QVakfQTJJn7k\"",
+   "id": "UgjZSky0UhoCYHgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nGKeTopl8r4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pp2UsqHpP-Uv2JBVKidOuH1rB74\"",
+     "id": "UgjZSky0UhoCYHgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nGKeTopl8r4",
+      "textDisplay": "trip advisor why do you support   fake news people. I will not use you anymore",
+      "textOriginal": "trip advisor why do you support   fake news people. I will not use you anymore",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:07:49.000Z",
+      "updatedAt": "2017-07-06T03:07:49.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nae-d_T6Wz3mZRVM7G7kb9bzdTw\"",
+   "id": "UgjKq2s8FxjdyngCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nGKeTopl8r4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XcPVx3ElYaTalxkdD-gOFlsRODE\"",
+     "id": "UgjKq2s8FxjdyngCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nGKeTopl8r4",
+      "textDisplay": "I'd like to book a trip to jail to visit my cnn friends",
+      "textOriginal": "I'd like to book a trip to jail to visit my cnn friends",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:05:07.000Z",
+      "updatedAt": "2017-07-06T03:05:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OxPbff0DFFjaoszM9tudpQPRarE\"",
+   "id": "UggR1fXVEQQ-w3gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nGKeTopl8r4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aYM7ZBDyxdkLWXYI5OND7EMxvpw\"",
+     "id": "UggR1fXVEQQ-w3gCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nGKeTopl8r4",
+      "textDisplay": "hi do you serve nothin burgers on your flights to cnn headquarters",
+      "textOriginal": "hi do you serve nothin burgers on your flights to cnn headquarters",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:04:07.000Z",
+      "updatedAt": "2017-07-06T03:04:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M2Yb9vrnsC0MKnHL4fZslrASn-I\"",
+   "id": "Ugi2fM5O5t1w1XgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nGKeTopl8r4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3ZrqEvw9fbaR4mP3rB5MzC5OhAc\"",
+     "id": "Ugi2fM5O5t1w1XgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nGKeTopl8r4",
+      "textDisplay": "I like to advertise on cnn cause their bullies and I support that . good job",
+      "textOriginal": "I like to advertise on cnn cause their bullies and I support that . good job",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:02:34.000Z",
+      "updatedAt": "2017-07-06T03:02:34.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6Ucz3mATOu8dcCtb5BbVpeYLSsU\"",
+   "id": "Ughr9er2kpVOvXgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nGKeTopl8r4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B6ly6Fr3yLZbLDoBGWUdv0Ih7Ew\"",
+     "id": "Ughr9er2kpVOvXgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nGKeTopl8r4",
+      "textDisplay": "fake news cnn advertising bullies",
+      "textOriginal": "fake news cnn advertising bullies",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:01:25.000Z",
+      "updatedAt": "2017-07-06T03:01:25.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rIQuqa3kqMDQTIwU2VNHcPeSaqs\"",
+   "id": "Uggtryqv7Wj0EXgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nGKeTopl8r4",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ub-UCZWZKbNpfKTsogSNcS8aHsI\"",
+     "id": "Uggtryqv7Wj0EXgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Junior McFluffs",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FEeialmFGCU/AAAAAAAAAAI/AAAAAAAAAAA/A_-_sgcMuG8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCRbda72lpiqlNcqZU5sxwiA",
+      "authorChannelId": {
+       "value": "UCRbda72lpiqlNcqZU5sxwiA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nGKeTopl8r4",
+      "textDisplay": "You should stop advertising on cnn. fake news and blackmailing .",
+      "textOriginal": "You should stop advertising on cnn. fake news and blackmailing .",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-06T03:00:49.000Z",
+      "updatedAt": "2017-07-06T03:00:49.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B7q2eAsmY-vQjIj3FxYoog7lOeI\"",
+   "id": "Uggep2gSQb2G83gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "ePgoFQmRiRg",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HwhHRD9uzTMJoja-FrtbWcdgdpM\"",
+     "id": "Uggep2gSQb2G83gCoAEC",
+     "snippet": {
+      "authorDisplayName": "Places to Eat Near Me",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-1cIWLGs2ELE/AAAAAAAAAAI/AAAAAAAAAAA/Cua-TZ6tdQg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCWFeETQxSRV6JtNySPRUhkA",
+      "authorChannelId": {
+       "value": "UCWFeETQxSRV6JtNySPRUhkA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "ePgoFQmRiRg",
+      "textDisplay": "Thanks TripAdvisor.",
+      "textOriginal": "Thanks TripAdvisor.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-07-02T17:48:23.000Z",
+      "updatedAt": "2017-07-02T17:48:23.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4B3CG5crrVBggt3ARgy7K_vMm9w\"",
+   "id": "UggvgPmC0Ejal3gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "y3TvyJsu96I",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Rk5BxfjfgNcDL72PMIWuTHEU1UY\"",
+     "id": "UggvgPmC0Ejal3gCoAEC",
+     "snippet": {
+      "authorDisplayName": "T vb",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-bh9ao9VZomU/AAAAAAAAAAI/AAAAAAAAAAA/BOVtTjTAUGg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCKG0Fq9rNntlq-ArF1ig_QA",
+      "authorChannelId": {
+       "value": "UCKG0Fq9rNntlq-ArF1ig_QA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "y3TvyJsu96I",
+      "textDisplay": "VALUES ???? LOL they have no idea what that means ..... they have killed thousands of businesses world wide .....BAH",
+      "textOriginal": "VALUES ???? LOL they have no idea what that means ..... they have killed thousands of businesses world wide .....BAH",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2017-06-29T08:15:44.000Z",
+      "updatedAt": "2017-06-29T08:15:44.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-MckyoGF1Lds-G9o4KFWF3oXLm4\"",
+   "id": "Ugh4ofgdQvKAi3gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "nfl8Kx_2AQY",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HDKafNbof0uVdM16b4SXPNlD5oI\"",
+     "id": "Ugh4ofgdQvKAi3gCoAEC",
+     "snippet": {
+      "authorDisplayName": "T vb",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-bh9ao9VZomU/AAAAAAAAAAI/AAAAAAAAAAA/BOVtTjTAUGg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCKG0Fq9rNntlq-ArF1ig_QA",
+      "authorChannelId": {
+       "value": "UCKG0Fq9rNntlq-ArF1ig_QA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "nfl8Kx_2AQY",
+      "textDisplay": "A SICK COMPANY FOR SICK PEOPLE !!!!     YOU DISGUST ME !!",
+      "textOriginal": "A SICK COMPANY FOR SICK PEOPLE !!!!     YOU DISGUST ME !!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-06-29T08:13:33.000Z",
+      "updatedAt": "2017-06-29T08:13:33.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KfKiz-Vb6CsgNK8Oh9GQHwUaSlM\"",
+   "id": "UggsEBLgheV8ZXgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/37MFN1xWBWrs3PJKhcF3PUe5KH8\"",
+     "id": "UggsEBLgheV8ZXgCoAEC",
+     "snippet": {
+      "authorDisplayName": "T vb",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-bh9ao9VZomU/AAAAAAAAAAI/AAAAAAAAAAA/BOVtTjTAUGg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCKG0Fq9rNntlq-ArF1ig_QA",
+      "authorChannelId": {
+       "value": "UCKG0Fq9rNntlq-ArF1ig_QA"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "Tripadvisor is FULL OFF CRAP!!  this video is so full of SHIT \"like this Company\" you dont give a crap about restaurants owners you just wanne be this biggest even if you have to walk over dead bodies to get there ... Bah companies like Tripadvisor disgust me and all who work for them !!!",
+      "textOriginal": "Tripadvisor is FULL OFF CRAP!!  this video is so full of SHIT \"like this Company\" you dont give a crap about restaurants owners you just wanne be this biggest even if you have to walk over dead bodies to get there ... Bah companies like Tripadvisor disgust me and all who work for them !!!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-06-29T08:12:20.000Z",
+      "updatedAt": "2017-06-29T08:12:20.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nk2rwTprCNeikOMp9Ta-4-ByVnQ\"",
+   "id": "UghS-V6nGskQzngCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "z-GicDU8QMA",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-Jz8z_G11088GGmrlno_2hnDWgQ\"",
+     "id": "UghS-V6nGskQzngCoAEC",
+     "snippet": {
+      "authorDisplayName": "M Bortignon",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-bI3q5XwmqBU/AAAAAAAAAAI/AAAAAAAAAAA/nHmdhE-tYOo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCFCK9Me7XpBJ6m6DalNy_9g",
+      "authorChannelId": {
+       "value": "UCFCK9Me7XpBJ6m6DalNy_9g"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "z-GicDU8QMA",
+      "textDisplay": "Well, I just wrote a very normal unbiased review for a restaurant that i went for the first time and guess what? it was refused by your super cool system. It doesn't work. Sorry",
+      "textOriginal": "Well, I just wrote a very normal unbiased review for a restaurant that i went for the first time and guess what? it was refused by your super cool system. It doesn't work. Sorry",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 5,
+      "publishedAt": "2017-06-28T21:18:48.000Z",
+      "updatedAt": "2017-06-28T21:19:26.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ac10NSeGvAQvlKycZfiy1y6u9cI\"",
+   "id": "UgjMc-boXEsThHgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "aIFLV_iC3tE",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dZFe6np5XFEsVxgdP6ckXCUXLWA\"",
+     "id": "UgjMc-boXEsThHgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Rick Hustwick",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-m_eUnlTomFI/AAAAAAAAAAI/AAAAAAAAAAA/Ri_1S3CdM3A/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0H0YL-dGhcdYIjxy6L49Dg",
+      "authorChannelId": {
+       "value": "UC0H0YL-dGhcdYIjxy6L49Dg"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "aIFLV_iC3tE",
+      "textDisplay": "Bollocks. TA is evolving from an online site for reviews to an everyday OTA and they're slowly removing the tools that used to be  free to force you to pay for a business listing (and they're not cheap).",
+      "textOriginal": "Bollocks. TA is evolving from an online site for reviews to an everyday OTA and they're slowly removing the tools that used to be  free to force you to pay for a business listing (and they're not cheap).",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-06-22T18:09:53.000Z",
+      "updatedAt": "2017-06-22T18:09:53.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-lGgFBzqBpywqUt1gZB_6GfBHWo\"",
+   "id": "UggK62xtfToKTXgCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "JUOi72i7c48",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Jq2YSvmqzbQR7JHDH5lvYF0ovVQ\"",
+     "id": "UggK62xtfToKTXgCoAEC",
+     "snippet": {
+      "authorDisplayName": "Lewis Dolgin",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-jbq2rqtu5tA/AAAAAAAAAAI/AAAAAAAAAAA/B9LUmsNdWtc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCptYlxL7ZX12-aB6MKLq3og",
+      "authorChannelId": {
+       "value": "UCptYlxL7ZX12-aB6MKLq3og"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "JUOi72i7c48",
+      "textDisplay": "Book! Book! Book! Book! Boston terriers are very entertaining dogs!",
+      "textOriginal": "Book! Book! Book! Book! Boston terriers are very entertaining dogs!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-06-21T21:26:57.000Z",
+      "updatedAt": "2017-06-21T21:26:57.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+
+
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mysrOVUOFSC2PodLMrS-sChmz1I\"",
+   "id": "UgjLugxoiN_w03gCoAEC",
+   "snippet": {
+    "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+    "videoId": "1HVUb-X8Sfc",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ElULp60G1ubo8nsYofmmL0OA_WE\"",
+     "id": "UgjLugxoiN_w03gCoAEC",
+     "snippet": {
+      "authorDisplayName": "Miguel Correia",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-FkeTrmbHYNE/AAAAAAAAAAI/AAAAAAAAAAA/9KN9S5Mbxyc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCK2-L-g3hUVJckoLbb7P-jw",
+      "authorChannelId": {
+       "value": "UCK2-L-g3hUVJckoLbb7P-jw"
+      },
+      "channelId": "UCS9S86BryT1on_qhDT2Jwig",
+      "videoId": "1HVUb-X8Sfc",
+      "textDisplay": "Fantastic",
+      "textOriginal": "Fantastic",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2017-05-26T23:12:44.000Z",
+      "updatedAt": "2017-05-26T23:12:44.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  }
+ ]
+}
